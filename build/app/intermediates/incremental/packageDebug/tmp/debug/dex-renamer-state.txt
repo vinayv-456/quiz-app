@@ -1,4 +1,4 @@
-#Mon Jun 28 12:55:55 IST 2021
+#Tue Jun 29 12:12:09 IST 2021
 base.0=/home/vinay/Documents/personal/demo_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
